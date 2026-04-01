@@ -1,2 +1,2 @@
-# prjct-bsi
+# Project apa ni co
 Project Program Kuliah
